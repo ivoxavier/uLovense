@@ -1,0 +1,6 @@
+{
+    "policy_groups": [
+        "bluetooth"
+    ],
+    "policy_version": "$ENV{APPARMOR_POLICY}"
+}

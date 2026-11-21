@@ -1,0 +1,15 @@
+{
+    "name": "ulovense.ivoxavier",
+    "description": "Control Your Lovense Device. Unofficial, and not endorsed with Lovense",
+    "architecture": "$ENV{ARCH}",
+    "title": "uLovense",
+    "hooks": {
+        "ulovense": {
+            "apparmor": "ulovense.apparmor",
+            "desktop":  "ulovense.desktop"
+        }
+    },
+    "version": "1.0.1",
+    "maintainer": "Ivo Xavier <ivofernandes12@gmail.com>",
+    "framework" : "$ENV{CLICK_FRAMEWORK}"
+}

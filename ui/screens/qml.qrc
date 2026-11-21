@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MenuPage.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>DevicePage.qml</file>
+        <file alias="Main.qml">../../Main.qml</file>
+    </qresource>
+</RCC>
